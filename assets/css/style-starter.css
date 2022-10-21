@@ -19156,6 +19156,7 @@ h3.title-style {
   background: url(../images/banner11.png) no-repeat center;
   -ms-background-size: cover;
   background-size: cover;
+  width: 100%;
   position: relative;
   z-index: 1;
 }
