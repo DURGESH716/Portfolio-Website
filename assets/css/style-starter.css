@@ -1,15 +1,6 @@
 @charset "UTF-8";
 
-/*--
-Author: W3layouts
-Author URL: http://w3layouts.com
---*/
-/*!
- * Bootstrap v5.0.1 (https://getbootstrap.com/)
- * Copyright 2011-2021 The Bootstrap Authors
- * Copyright 2011-2021 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
- */
+
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
@@ -19154,11 +19145,11 @@ h3.title-style {
   align-items: center;
   min-height: 100vh; 
   background: url(../images/banner11.png) no-repeat center;
-  max-width:100%;
+  /*max-width:100%;*/
   height:auto;
   -ms-background-size: cover;
   background-size: cover;
-/*   width: 100%; */
+  width: auto; 
   position: relative;
   z-index: 1;
 }
