@@ -19152,11 +19152,13 @@ h3.title-style {
 .w3l-banner {
   display: grid;
   align-items: center;
-  min-height: 100vh;
+/*   min-height: 100vh; */
   background: url(../images/banner11.png) no-repeat center;
+  max-width:100%;
+  height:auto;
   -ms-background-size: cover;
   background-size: cover;
-  width: 100%;
+/*   width: 100%; */
   position: relative;
   z-index: 1;
 }
