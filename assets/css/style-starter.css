@@ -11773,7 +11773,7 @@ fieldset:disabled .btn {
 :root {
   --primary-color: #F54748;
   --secondary-color: #131917;
-  --font-color: #363636;
+  --font-color: #fff;
   --bg-color: #fff;
   --heading-color: #060606;
   --border-radius: 8px;
@@ -19144,7 +19144,7 @@ h3.title-style {
   display: grid;
   align-items: center;
   min-height: 100vh; 
-  background-image: url(../images/hero-bg.jpg) no-repeat center;
+  background: url(../images/hero-bg.jpg) no-repeat center;
   /*max-width:100%;*/
   height:auto;
   -ms-background-size: cover;
