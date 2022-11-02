@@ -19144,7 +19144,7 @@ h3.title-style {
   display: grid;
   align-items: center;
   min-height: 100vh; 
-  background-image: url(../images/banner11.png) no-repeat center;
+  background-image: url(../images/hero-bg.jpg) no-repeat center;
   /*max-width:100%;*/
   height:auto;
   -ms-background-size: cover;
